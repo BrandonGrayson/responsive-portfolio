@@ -1,0 +1,17 @@
+.about-me {
+	background-color: beige;
+	opacity: 0.8;
+	width: 40%;
+	margin: auto;
+	margin-top: 10%;
+}
+
+body {
+	background-image: url(https://i.etsystatic.com/10811001/r/il/5c35f2/2251070632/il_1588xN.2251070632_h8r9.jpg);
+	background-size: cover;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+}
