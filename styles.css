@@ -14,9 +14,13 @@ body {
 }
 
 footer {
-	position: absolute;
+	position: fixed;
 	bottom: 0;
 	background-color: #4983FE;
 	width: 100vw;
 	height: 5px
+}
+
+p {
+	float: right;
 }
