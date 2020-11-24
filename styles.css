@@ -1,14 +1,22 @@
+.bg-primary {
+	background-color: #4983FE !important;
+}
+
 .about-me {
-	background-color: beige;
+	background-color: #F2F7FA;
 	margin-top: 10px;
+	padding-top: 5px;
 }
 
 body {
-	background-image: url(img/bush.png);
+	background-image: url(img/interlaced.png);
 	background-size: cover;
 }
 
 footer {
 	position: absolute;
 	bottom: 0;
+	background-color: #4983FE;
+	width: 100vw;
+	height: 5px
 }
