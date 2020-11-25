@@ -1,19 +1,19 @@
 .bg-primary {
-    background-color: #4983FE !important;
+	background-color: #4983fe !important;
 }
 
 body {
-    background-image: url(/img/interlaced.png);
+	background-image: url(../img/interlaced.png);
 }
 
 footer {
 	position: fixed;
 	bottom: 0;
-	background-color: #4983FE;
+	background-color: #4983fe;
 	width: 100vw;
-	height: 5px
+	height: 5px;
 }
 
 .pBackground {
-    background-color: #ADEE78;
+	background-color: #adee78;
 }
