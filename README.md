@@ -14,3 +14,4 @@ Brandon Grayson
 
 ##### Links
 https://github.com/BrandonGrayson/responsive-portfolio
+https://www.linkedin.com/in/brandon-grayson-858032152/
