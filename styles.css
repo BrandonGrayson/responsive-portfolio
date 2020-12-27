@@ -1,26 +1,44 @@
-.bg-primary {
-	background-color: #4983FE !important;
-}
+/* html {
+	background: url(img/stars.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+} */
 
-.about-me {
-	background-color: #F2F7FA;
-	margin-top: 10px;
-	padding-top: 5px;
-}
 
 body {
-	background-image: url(img/stars.jpg);
+	background: url('img/stars.jpg') no-repeat center center fixed;
 	background-size: cover;
+	-webkit-background-size:cover;	
+	-moz-background-size:cover;
+    -o-background-size: cover;
 }
 
-footer {
+.circular--landscape {
+	display: inline-block;
+	position: relative;
+	width: 200px;
+	height: 200px;
+	overflow: hidden;
+	border-radius: 50%;
+	transform: translate(200%);
+}
+
+.circular--landscape img {
+	width: auto;
+	height: 100%;
+	margin-left: 0px;
+}
+  
+/* footer {
 	position: fixed;
 	bottom: 0;
 	background-color: #4983FE;
 	width: 100vw;
 	height: 5px
-}
+} */
 
-p {
+/* p {
 	float: right;
-}
+} */
