@@ -8,7 +8,7 @@
 
 
 body {
-	background: url('img/stars.jpg') no-repeat center center fixed;
+	background-image: url('img/stars.jpg') no-repeat center center fixed;
 	background-size: cover;
 	-webkit-background-size:cover;	
 	-moz-background-size:cover;
@@ -31,14 +31,4 @@ body {
 	margin-left: 0px;
 }
   
-/* footer {
-	position: fixed;
-	bottom: 0;
-	background-color: #4983FE;
-	width: 100vw;
-	height: 5px
-} */
 
-/* p {
-	float: right;
-} */
