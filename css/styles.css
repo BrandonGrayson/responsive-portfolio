@@ -14,40 +14,39 @@ body {
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
-	display: flex;
-	flex-direction: column;
-	align-content: center;
-	text-align: center;
 }
 
-.circular--landscape {
+.container {
+	justify-content: center;
+}
+
+/* .circular--landscape {
 	display: inline-block;
 	vertical-align: middle;
 	position: relative;
 	width: 200px;
 	height: 200px;
 	overflow: hidden;
-	border-radius: 50%;
-	/* transform: translate(200%); */
-	margin: 0 auto;
+	border-radius: 50%; */
+	/* margin: 0 auto;
 	max-width: auto;
-	justify-content: center;
+	justify-content: center; */
 	/* text-align: center; */
 	/* max-width: 500px; */
-}
+/* } */
 
-.circular--landscape img {
+/* .circular--landscape img {
 	width: 100%;
 	height: 100%;
 	margin-left: 0px;
 	display: inline-block;
 	vertical-align: middle;
 	margin: 0 auto;
-}
-
+} */
+/* 
 header div .box {
 	text-align: center;
-}
+} */
 
 
 
