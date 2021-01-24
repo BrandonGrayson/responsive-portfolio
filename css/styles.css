@@ -17,11 +17,6 @@
 	background-color: #6700EE !important;
 }
 
-@media (min-width: 1200px) {
-    .navElement{
-        max-width: 970px;
-    }
-}
 
 
 body {
